@@ -27,6 +27,7 @@ button{
 textarea{
     color:#000;
 }
+/* span inline... to style small part separately */
 span{
      text-decoration: underline;
 
