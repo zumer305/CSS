@@ -1,4 +1,29 @@
+
+ /* header ma styling problem(multiple html hoti) */
 h1{
       color:red;
      background-color: black;
+}
+p{
+    color: blue;
+     background-color: black;
+
+}
+button{
+       color:black;
+     background-color: yellow;
+
+}
+
+/* practice */
+h3{
+    color:orange;
+}
+p{
+    color:white;
+    background-color: blue;
+}
+button{
+    color:white;
+    background-color: black;
 }
