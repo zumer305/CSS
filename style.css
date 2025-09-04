@@ -27,3 +27,12 @@ button{
     color:white;
     background-color: black;
 }
+
+/* RGB=>YBP and code(red,green,blue)  */
+/* white 255 all and black all 0 */
+/* color-picker */
+h4{
+    color:rgb(250,0,0)
+    /* color:#ff0000;
+    color:#f00; */
+}
