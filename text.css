@@ -69,7 +69,12 @@ h3{
     font-weight: 900;
     letter-spacing: 2px;
     line-height: 1.5;
-    
+    text-decoration: teal double underline;
+    /* uppercase */
+    text-transform: uppercase;
+
 
 }
+
+
 
