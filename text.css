@@ -1,0 +1,75 @@
+/* Text-Align,..........font-weight,text-decoration,line-height,letter-spacing,font-size */
+
+
+h1 {
+
+    /* text-align */
+  text-align: center;
+  /* text-align: right/end;
+    text-align: left/start;
+    text-align: justify; */
+
+
+
+    /* font-weight 100-900 */
+    font-weight: normal;  
+    /* font-weight: 400;
+    font-weight: bold;
+    font-weight: 700; */
+
+
+    /* text-decoration */
+    text-decoration:  red wavy underline;
+    /* text-decoration: overline;
+    text-decoration: line-through;
+
+    text-decoration: red overline;
+    text-decoration: dotted line-through; */
+}
+h2{
+    /* border ka lahaz sa right/left/center */
+    text-align: right;
+    width: 50%;
+    border:solid;
+}
+p{
+    text-align: justify;
+
+
+    /* line height */
+    line-height: 2.5;
+    /* line-height: normal; */
+
+
+    /* letter spacing */
+    letter-spacing: normal;
+    /* letter-spacing: 10px; */
+
+
+    /* fontSize px........responsive %, em(usi ma change)  ,rem(parent ko dakh ka change) */
+    font-size:25px;
+
+
+    /* fontFamily agar didot available ni to wo arial....... website:css font stack */
+    font-family: didot,arial;
+
+}
+/* how to remove underline from anchor tags  */
+
+a{
+    text-decoration: none;
+}
+
+/* practice */
+h3{
+    font-family: League spartan;
+    color:#ffa511;
+    text-align:center;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    
+
+}
+
